@@ -14,5 +14,5 @@
   <project path="device/sony/qcom-common" name="mamenyaka/android_device_sony_qcom-common" remote="github" revision="phablet" />
   <project path="kernel/sony/apq8064" name="mamenyaka/android_kernel_sony_apq8064" remote="github" revision="phablet" />
   <project path="hardware/sony/DASH" name="CyanogenMod/android_hardware_sony_DASH" remote="github" revision="cm-10.1" />
-  <project path="vendor/sony" name="mamenyaka/proprietary_vendor_sony" remote="github" revision="phablet" />
+  <project path="vendor/sony" name="TheMuppets/proprietary_vendor_sony" remote="github" revision="cm-10.1" />
 </manifest>
